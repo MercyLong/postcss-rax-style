@@ -1,68 +1,26 @@
-.hotcates-wrapper .cate-list-wrapper {
-  padding: 0 0.4rem 0rem;
-}
-.hotcates-wrapper .cate-list-wrapper .cate-line {
+.zebra-oversea-middlecard-container .zebra-oversea-middlecard {
+  height: 48;
   width: 100%;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  -ms-flex-pack: distribute;
-  justify-content: space-around;
+  margin-right: 20;
+  border-left: 40 solid #fff;
+  padding-top: 12;
+  padding-right: 12;
+  padding-bottom: 12;
+  padding-left: 12;
+  margin-top: 40;
+  margin-right: 40;
+  margin-bottom: 40;
+  margin-left: 40;
+  border-top: 1px solid red;
+  border-right: 1px solid red;
+  border-bottom: 1px solid red;
+  border-left: 1px solid red;
+  border-top-left-radius: 16;
+  border-top-right-radius: 16;
+  border-bottom-right-radius: 16;
+  border-bottom-left-radius: 16;
 }
-.hotcates-wrapper .cate-list-wrapper .cate-line .cate-item {
-  margin-top: 0.4rem;
-}
-.hotcates-wrapper .cate-list-wrapper .cate-line .cate-item .cate-image {
-  width: 3.5rem;
-  height: 3.5rem;
-  margin: 0, 4rem;
-}
-.hotcates-wrapper .cate-list-wrapper .cate-line .cate-item .item-title {
-  margin-top: 0.15rem;
-  text-align: center;
-  font-size: 0.6rem;
-  color: #000;
-}
-.hotcates-wrapper .cate-banner-wrapper {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  -ms-flex-pack: distribute;
-  justify-content: space-around;
-}
-.hotcates-wrapper .cate-banner-wrapper .cate-banner {
-  position: relative;
-  display: block;
-  width: 8.35rem;
-  height: 3.5rem;
-  border-radius: 0.2rem;
-  overflow: hidden;
-}
-.hotcates-wrapper .cate-banner-wrapper .cate-banner img {
+.zebra-oversea-middlecard-container img {
+  width: 100%;
   height: 100%;
-  width: 100%;
-}
-.hotcates-wrapper .cate-banner-wrapper p {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  color: #fff;
-  text-align: center;
-  font-size: 0.6rem;
-  border-radius: 0 0 0.2rem 0.2rem;
-  background-color: rgba(0, 0, 0, 0.8);
 }
